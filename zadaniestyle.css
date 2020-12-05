@@ -1,0 +1,55 @@
+#cont {width: 720px;margin:0 auto;}
+#toppart {padding:10px;background-color:#00a5ff;height:18px;}
+#srch {float: right;margin-top: -21px;margin-right: 70px;}
+nav {width: 400px;margin-top: 2px;}
+#navbox {background: white;margin-left: 10px;padding-left: 40px;}
+a {text-decoration: none;color: grey;margin-right: 40px;}
+a:visited {text-decoration: none;color: lightblue; }
+a:hover {text-decoration: none;opacity: 0.8;}
+#header { height:130px;padding:30px;background-color:#00a5ff;border-top:1px solid #fff;color:#fff;}
+#pic {width: 330px;height: 50px;background: #fff url(billy-herrington.jpg) no-repeat;}
+#bigbox1 {height:175px;color:#fff;text-align:center;}
+#bigbox2 {height:130px;color:#fff;text-align:center;}
+#bb11 {padding:10px;float:left;width:210px;background-color:#00a5ff;height:150px;}
+#bb12 {margin:0 14px;padding:10px;float:left;width:210px;background-color:#00a5ff;height:150px;}
+#bb13 {padding:10px;float:left;width:210px;background-color:#00a5ff;height:150px;}
+#bb21 {padding:8px;float:left;width:152px;background-color:#00a5ff;height:100px;}
+#bb22 {margin-left:16px; margin-right:8px;padding:8px;float:left;width:152px;background-color:#00a5ff;height:100px;}
+#bb23 {margin-left:8px;margin-right:16px;padding:8px;float:left;width:152px;background-color:#00a5ff;height:100px;}
+#bb24 {padding:8px;float:left;width:152px;background-color:#00a5ff;height:100px;}
+@media screen and (max-width: 360px) {
+#cont {width: 350px;}
+#toppart {padding:22px;padding-left: -10px;background-color:#00a5ff;height:0px;}
+#srch {width: 70px;float: right;margin-top: -14px;margin-right: -3px;}
+nav {width: 240px;margin-top: -8px;margin-left: -18px;   }
+#navbox {height 40px;font-size: 10px;background: white;margin-left: 0;padding-left: 1px;}
+#header {font-size: 12px;height:95px;padding:10px;background-color:#00a5ff;border-top:1px solid #fff;color:#fff;}
+#pic {width: 300px;height: 39px;background: #fff url(billy-herrington.jpg) no-repeat;}
+#bigbox1 {height:55px;color:#fff;text-align:center;}
+#bigbox2 {height:45px;color:#fff;text-align:center;}
+#bb11 {padding:3px;float:left;width:103px;background-color:#00a5ff;height:50px;}
+#bb12 {margin:0 4px;padding:3px;float:left;width:103px;background-color:#00a5ff;height:50px;}
+#bb13 {padding:3px;float:left;width:103px;background-color:#00a5ff;height:50px;}
+#bb21 {padding:2px;float:left;width:76px;background-color:#00a5ff;height:45px;font-size: 14px;}
+#bb22 {margin-left:5px;margin-right:2px;padding:2px;float:left;width:76px;background-color:#00a5ff;height:45px;font-size: 14px;}
+#bb23 {margin-left:2px;margin-right:5px;padding:2px;float:left;width:76px;background-color:#00a5ff;height:45px;font-size: 14px;}
+#bb24 {padding:2px;float:left;width:76px;background-color:#00a5ff;height:45px;font-size: 14px;}
+}
+@media screen and (min-width:480px) and (max-width:800px) {
+#cont {width: 600px;}
+#toppart {padding:22px;padding-left: -10px;background-color:#00a5ff;height:0px;}
+#srch {width: 70px;float: right;margin-top: -24px;margin-right: 14px;}
+nav {width: 280px;margin-top: -8px;margin-left: 8px; }
+#navbox {height: 18px;font-size: 12px;background: white;margin-left: 0;padding-left: 1px;}
+#header {font-size: 14px;height:115px;padding:10px;background-color:#00a5ff;border-top:1px solid #fff;color:#fff;}
+#pic {width: 300px;height: 39px;background: #fff url(billy-herrington.jpg) no-repeat;}
+#bigbox1 {height:55px;color:#fff;text-align:center;}
+#bigbox2 {height:45px;color:#fff;text-align:center;}
+#bb11 {padding:10px;float:left;margin-left: 10px;width:163px;background-color:#00a5ff;height:50px;}
+#bb12 {margin:0 4px;padding:10px;float:left;width:163px;background-color:#00a5ff;height:50px;}
+#bb13 {padding:10px;float:left;width:163px;background-color:#00a5ff;height:50px;}
+#bb21 {margin-left: 10px;margin-right:9px;padding:4px;float:left;width:123px;background-color:#00a5ff;height:60px;font-size: 14px;}
+#bb22 {margin-left:5px;margin-right:9px;padding:4px;float:left;width:123px;background-color:#00a5ff;height:60px;font-size: 14px;}
+#bb23 {margin-left:2px;margin-right:9px;padding:4px;float:left;width:123px;background-color:#00a5ff;height:60px;font-size: 14px;}
+#bb24 {padding:4px;float:left;width:123px;background-color:#00a5ff;height:60px;font-size: 14px;}
+}
